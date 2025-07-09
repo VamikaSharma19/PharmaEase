@@ -1,0 +1,104 @@
+==================================================
+💊 PharmaEase – Linux GUI Pharmacy Billing System
+==================================================
+
+PharmaEase is a Bash + Zenity-based interactive pharmacy billing system designed for Linux. 
+It allows you to add, manage, delete, and modify medicines, check expiry, generate bills, and maintain logs.
+All through a GUI, without any complex setup or dependencies.
+
+--------------------------------------------------
+📦 FEATURES
+--------------------------------------------------
+• View all medicines in stock
+• Search medicines by name prefix
+• Add new medicines with expiry and stock
+• Delete or modify existing medicine details
+• View low stock alerts (stock < 10)
+• Check for expired or soon-expiring medicines
+• Generate detailed billing receipts with auto-stock update
+• Log all user actions with timestamps
+• User-friendly GUI dialogs using Zenity
+
+--------------------------------------------------
+🛠 REQUIREMENTS
+--------------------------------------------------
+• Linux OS (Ubuntu/Debian-based preferred)
+• Bash Shell (default)
+• Zenity installed
+
+To install Zenity:
+$ sudo apt-get install zenity
+
+--------------------------------------------------
+🚀 HOW TO RUN
+--------------------------------------------------
+Step 1: Clone the repository
+$ git clone https://github.com/VamikaSharma19/PharmaEase.git
+$ cd PharmaEase
+
+Step 2: Make script executable
+$ chmod +x pharmacy_billing.sh
+
+Step 3: Run the script
+$ ./pharmacy_billing.sh
+
+--------------------------------------------------
+🗃 MEDICINE FILE FORMAT (medicine_list.txt)
+--------------------------------------------------
+Each line = One medicine record  
+Format:
+  MedicineName|Price|StockQuantity|ExpiryDate(YYYY-MM-DD)
+
+Example:
+  Paracetamol|25|50|2025-08-30
+  Crocin|20|10|2025-07-15
+
+--------------------------------------------------
+🧾 BILL RECEIPT SAMPLE
+--------------------------------------------------
+==================================================
+                              BILL RECEIPT             
+==================================================
+Date: 2025-07-03
+--------------------------------------------------
+Medicine            Price      Qty        Subtotal
+--------------------------------------------------
+Paracetamol         ₹ 25       2          ₹ 50
+Crocin              ₹ 20       1          ₹ 20
+--------------------------------------------------
+Total Amount: ₹ 70
+==================================================
+
+Stock is automatically updated in `medicine_list.txt`.
+
+--------------------------------------------------
+📝 LOG FILE SAMPLE (pharmacy_billing.log)
+--------------------------------------------------
+[2025-07-03 18:20:12] Added medicine: Aspirin at ₹ 30 with 5 packets
+[2025-07-03 18:22:01] Generated bill with total ₹70
+[2025-07-03 18:24:10] Deleted medicine: Crocin
+
+--------------------------------------------------
+📁 PROJECT STRUCTURE
+--------------------------------------------------
+PharmaEase/
+├── pharmacy_billing.sh        → Main script
+├── medicine_list.txt          → Database
+├── pharmacy_billing.log       → Logs of all actions
+
+--------------------------------------------------
+📌 THRESHOLDS & LIMITS
+--------------------------------------------------
+• Low Stock Threshold: 10
+• Expiry Warning: 3 days before expiry
+
+--------------------------------------------------
+👩‍💻 AUTHOR INFO
+--------------------------------------------------
+Name: Vamika Sharma  
+Branch: B.E CSE  
+GitHub: https://github.com/VamikaSharma19
+
+--------------------------------------------------
+© 2025 Vamika Sharma. All Rights Reserved.
+--------------------------------------------------
