@@ -1,0 +1,96 @@
+Aceclofenac|120|50|2025-11-01
+Acetazolamide|150|80|2025-06-30
+Albuterol|80|25|2025-07-05
+Alprazolam|180|80|2025-10-15
+Amiodarone|350|200|2026-01-10
+Amoxicillin|120|56|2025-05-07
+Antacid|60|35|2025-08-20
+Aspirin|50|15|2025-05-04
+Azathioprine|200|50|2025-12-01
+Azithromycin|180|60|2025-07-01
+Baclofen|90|30|2025-08-25
+Beclometasone|130|70|2025-09-18
+Bromhexine|90|50|2025-07-30
+Calcium Carbonate|100|60|2025-11-10
+Carvedilol|170|60|2025-12-25
+Cefixime|130|40|2025-06-15
+Cetirizine|75|24|2025-07-12
+Cetirizine Syrup|100|50|2025-07-28
+Chlorpheniramine|50|20|2025-08-02
+Chlorpromazine|180|60|2025-10-01
+Ciprofloxacin|140|80|2025-07-07
+Clindamycin|200|70|2025-06-22
+Clopidogrel|180|70|2025-12-20
+Cough Syrup|80|40|2025-07-25
+Dantrolene|300|100|2026-02-05
+Dexamethasone|150|70|2025-11-30
+Desloratadine|80|40|2025-08-10
+Diclofenac|150|40|2025-06-18
+Diphenhydramine|90|30|2025-08-01
+Dipyridamole|200|100|2025-12-08
+Doxycycline|180|90|2025-07-14
+Duloxetine|180|40|2025-10-10
+Enalapril|120|60|2025-09-30
+Erythromycin|130|40|2025-06-25
+Famotidine|130|50|2025-07-16
+Fentanyl|450|150|2026-01-25
+Fluconazole|140|50|2025-07-02
+Fluticasone|160|80|2025-11-12
+Folic Acid|40|20|2025-06-06
+Furosemide|110|50|2025-09-28
+Gabapentin|150|90|2025-11-18
+Glucometer|2500|500|2026-12-31
+Hydrochlorothiazide|100|40|2025-08-18
+Hydrocodone|150|60|2025-09-20
+Hydroxychloroquine|300|120|2025-12-05
+Ibuprofen|40|10|2025-05-07
+Ibuprofen Syrup|75|40|2025-06-05
+Insulin|500|200|2025-06-12
+Ketoconazole|130|50|2025-07-19
+Ketorolac|180|40|2025-07-22
+Levothyroxine|120|50|2025-10-08
+Lisinopril|110|60|2025-11-03
+Lorazepam|200|80|2025-12-15
+Loperamide|30|15|2025-06-17
+Loperamide|50|25|2025-08-05
+Loratadine|60|30|2025-08-28
+Losartan|100|60|2025-10-20
+Losartan|120|60|2025-10-22
+Lorazepam|200|80|2025-12-15
+Methylphenidate|250|200|2026-01-18
+Methylprednisolone|250|100|2025-12-02
+Metformin|100|46|2025-06-09
+Methotrexate|220|80|2025-12-30
+Metoclopramide|110|30|2025-06-28
+Metoprolol|150|40|2025-08-12
+Miconazole|100|50|2025-07-10
+Mupirocin|80|40|2025-07-08
+Naproxen|120|30|2025-07-18
+Nitroglycerin|180|100|2025-11-15
+Nystatin|100|50|2025-06-11
+Paracetamol|30|0|2025-05-01
+Paracetamol Syrup|90|46|2025-05-15
+Prednisolone|200|2|2025-10-05
+Prednisone|250|97|2025-10-07
+Pregabalin|200|90|2025-11-25
+Probiotic|80|30|2025-07-21
+Propranolol|150|58|2025-10-22
+Pravastatin|230|90|2025-11-09
+Ranitidine|120|30|2025-06-03
+Ramipril|140|60|2025-09-29
+Salbutamol|80|40|2025-08-08
+Salmeterol|130|90|2025-09-20
+Simvastatin|250|90|2025-11-23
+Sildenafil|400|180|2025-12-11
+Sodium Bicarbonate|40|20|2025-06-01
+Sodium Chloride Solution|35|15|2025-05-08
+Spironolactone|110|60|2025-09-10
+Tamsulosin|80|40|2025-08-22
+Tetanus Vaccine|200|150|2025-12-28
+Theophylline|220|100|2025-09-16
+Tramadol|150|50|2025-10-11
+Vitamins B12|100|50|2025-06-27
+Vitamin C|150|70|2025-07-11
+Warfarin|220|80|2025-10-13
+Zinc Sulfate|70|30|2025-08-30
+Zolpidem|220|100|2025-12-18
