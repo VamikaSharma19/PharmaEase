@@ -1,5 +1,5 @@
 # 💊 PharmaEase – Bash-based Pharmacy Billing System
-It is a GUI-powered pharmacy billing and inventory management system built entirely in Bash using Zenity. It lets you manage medicine stock, check expiry, get low stock alerts, and generate bills — all from a user-friendly interface.
+It is a GUI-powered pharmacy billing and inventory management system built entirely in Bash using Zenity. It lets you manage medicine stock, check expiry, get low stock alerts, and generate bills, all from a user-friendly interface.
 
 ## 🔍 Key Features
 - Add, modify, delete, and search medicines
